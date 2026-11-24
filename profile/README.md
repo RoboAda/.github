@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://roboada.github.io"><b>Project page</b></a> &nbsp;|&nbsp; <a href="https://github.com/RoboAda/RoboAda"><b>Code</b></a> &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2611.30209"><b>Paper</b></a>
+  <a href="https://roboada.github.io"><b>Project page</b></a> &nbsp;|&nbsp; <a href="https://github.com/RoboAda/RoboAda"><b>Code</b></a> &nbsp;|&nbsp; <a href="https://roboada.github.io/assets/RoboAda.pdf"><b>Paper</b></a>
 </p>
 
 A heavier object, a weakened joint or a lagging controller looks the same in a camera image, yet it changes how a robot
